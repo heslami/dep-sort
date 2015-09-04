@@ -1,0 +1,12 @@
+# C build files
+*.o
+*.a
+*.so
+
+# vim temporary files
+*.swp
+*.swo
+*~
+
+# executables
+sort
